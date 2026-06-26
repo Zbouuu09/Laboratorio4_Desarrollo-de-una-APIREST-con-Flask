@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 blinker==1.9.0
 certifi==2026.6.17
 charset-normalizer==3.4.7
@@ -10,3 +11,6 @@ MarkupSafe==3.0.3
 requests==2.34.2
 urllib3==2.7.0
 Werkzeug==3.1.8
+=======
+ 
+>>>>>>> 7540d9649e455e1598c72861dd28663a32f1302e

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from flask import Flask, jsonify, request
 
 app = Flask(__name__)
@@ -69,3 +70,6 @@ def agregar_producto():
 
 if __name__ == "__main__":
     app.run(debug=True)
+=======
+ 
+>>>>>>> 7540d9649e455e1598c72861dd28663a32f1302e
